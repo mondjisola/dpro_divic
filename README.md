@@ -1,1 +1,2 @@
-DPro | DIVE INTO CODE curriculum assignments
+DPro | DIVE INTO CODE | 2023
+Curriculum assignments.
